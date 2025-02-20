@@ -1,0 +1,100 @@
+@import url('./font.css');
+@import url('./margin.css');
+
+.cs-layout {
+    background: #fff !important;
+}
+
+.cs-container {
+    margin: 20px;
+}
+
+.cs-dashboard-table-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.cs-dis-flex {
+    display: flex;
+}
+
+.cs-hrz-center {
+    justify-content: center;
+    justify-items: center;
+}
+
+.cs-vt-center {
+    align-content: center;
+    align-items: center;
+}
+
+.cs-clr-success {
+    color: #4caf50;
+}
+
+.cs-clr-secondary {
+    color: #ff9800;
+}
+
+.cs-clr-danger {
+    color: #f44336;
+}
+
+.cs-vh100 {
+    height: 100vh;
+}
+
+.cs-clr-fff {
+    color: #fff;
+}
+
+.cs-br-10 {
+    border-radius: 10px !important;
+}
+
+.cs-w-100 {
+    width: 100%;
+}
+
+.cs-label {
+    color: rgba(71, 71, 71, 0.686);
+    font-weight: 600;
+}
+
+.cs-vh60 {
+    height: 60vh;
+}
+
+.cs-pos-abs {
+    position: absolute;
+    top: 50%;
+}
+
+.cs-font-12 {
+    font-size: 12px;
+}
+
+.cs-cursor-pointer {
+    cursor: pointer;
+}
+
+.cs-best-products .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+    background-color: #70b5c0 !important;
+}
+
+.cs-low-stock .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+    background-color: #fd5c62 !important;
+}
+
+.cs-best-deals .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+    background-color: #775ea5 !important;
+}
+
+.cs-clr-purple {
+    color: #775ea5;
+}
+
+.cs-clr-discount{
+    color: #70b5c0;
+}
